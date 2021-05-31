@@ -1,7 +1,7 @@
 # CopulaCNN
 
 
-PyTorch 0.4.0 implementation of the following paper:
+This project is a demonstration of the following paper which is implemented with PyTorch 0.4.0 : 
 Bourbia Salima, Ayoub Karine, Aladine Chetouani, Mohammed El Hassouni, 
 A MULTI-TASK CONVOLUTIONAL NEURAL NETWORK FOR BLIND STEREOSCOPICIMAGE QUALITY ASSESSMENT USING NATURALNESS ANALYSIS// LINK
 
