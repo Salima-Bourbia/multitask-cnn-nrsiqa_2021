@@ -13,7 +13,7 @@ A MULTI-TASK CONVOLUTIONAL NEURAL NETWORK FOR BLIND STEREOSCOPICIMAGE QUALITY AS
         https://drive.google.com/file/d/1A-DalUofuwYHJn3jGeM3ht8FCwCoGlhy/view?usp=sharing
         
 
-# Virtual environment link :
+# Activate the virtual environment  :
 
                         https://drive.google.com/file/d/1mCqKukigd_ag52qKK55gMwQA3Ax6mOWe/view?usp=sharing
                         
@@ -50,18 +50,19 @@ A MULTI-TASK CONVOLUTIONAL NEURAL NETWORK FOR BLIND STEREOSCOPICIMAGE QUALITY AS
       pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
       
       
-# To launch the code, you just have to launch the file "python train.py
+# Launch the code :
+        
+        python train.py
 
-after running the code, the number of epochs will continue to be displayed in the cmd to keep you informed of the progress of the execution. in our code, we used 500 epochs with 586 
-in our code we used 500 epochs with 586 iterations each.
 
-# To leave the virtual environment :
+
+#  Exit the virtual environment :
       
         deactivate
    
    
  # Architecture of the model:
 
-![alt text](https://github.com/br-salima/Deep_cnn_HVS/blob/master/archi-dual.PNG?raw=true)
+![alt text](https://github.com/salima000/CopulaCNN/blob/main/network.PNG)
 
 
