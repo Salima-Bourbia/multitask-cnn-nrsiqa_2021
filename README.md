@@ -1,5 +1,4 @@
-# CopulaCNN
-
+# Multitask copula CNN
 
 This project is a demonstration of the following paper which is implemented with PyTorch 0.4.0 : 
 
