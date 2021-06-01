@@ -1,4 +1,4 @@
-# Multi-Task CNN for BSIQA Using Naturalness Analysis
+# Multi-Task CNN for Blind SIQA Using Naturalness Analysis
 
 This project is a demonstration of the following paper which is implemented with PyTorch 0.4.0 : 
 
