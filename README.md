@@ -13,7 +13,7 @@ This paper addresses the problem of blind stereoscopic image quality assessment 
 
 ![alt text](https://github.com/salima000/CopulaCNN/blob/main/network.PNG)
 
-## Data base Link : 
+## Database Link : 
         
        ##########################
         
