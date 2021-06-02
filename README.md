@@ -3,7 +3,8 @@
 This project is a the code associated to the following paper :
 
 ** Bourbia Salima, Ayoub Karine, Aladine Chetouani, Mohammed El Hassouni, 
- A MULTI-TASK CONVOLUTIONAL NEURAL NETWORK FOR BLIND STEREOSCOPICIMAGE QUALITY ASSESSMENT USING NATURALNESS ANALYSIS, IEEE International Conference on Image Processing (IEEE - ICIP), ICIP 2021 [Link] **
+
+### A multi-task convolutional neural network for blind stereoscopic image quality assessment using naturalness analysis, IEEE International Conference on Image Processing (IEEE - ICIP), ICIP 2021 [Link] **
 
 ## Abstract :
 
