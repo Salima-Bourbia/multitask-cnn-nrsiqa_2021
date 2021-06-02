@@ -15,7 +15,7 @@ This paper addresses the problem of blind stereoscopic image quality assessment 
 
 ## Database Link : 
         
-       ##########################
+       TODO
         
 
 ## Virtual environment link :
