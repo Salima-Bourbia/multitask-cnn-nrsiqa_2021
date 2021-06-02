@@ -1,10 +1,10 @@
 # Multi-Task CNN for Blind SIQA Using Naturalness Analysis
 
-This project is a demonstration of the following paper which is implemented with PyTorch 0.4.0 : 
+This project is a the code associated to the following paper :
 
 
 ** Bourbia Salima, Ayoub Karine, Aladine Chetouani, Mohammed El Hassouni, 
- A MULTI-TASK CONVOLUTIONAL NEURAL NETWORK FOR BLIND STEREOSCOPICIMAGE QUALITY ASSESSMENT USING NATURALNESS ANALYSIS// LINK**
+ A MULTI-TASK CONVOLUTIONAL NEURAL NETWORK FOR BLIND STEREOSCOPICIMAGE QUALITY ASSESSMENT USING NATURALNESS ANALYSIS// LINK +  ICIP 2021 **
 
 This paper addresses the problem of blind stereoscopic image quality assessment (NR-SIQA) using a new multi-task deep learning based-method. In the field of stereoscopic vision, the information is fairly distributed between the left and right views as well as the binocular phenomenon. In this work, we propose to integrate these characteristics to estimate the quality of stereoscopic images without reference through a convolutional neural network. Our method is based on two main tasks: the first task predicts naturalness analysis based features adapted to stereo images, while the second task predicts the quality of such images. The former, so-called auxiliary task, aims to find more robust and relevant features to improve the quality prediction. To do this, we compute naturalness-based features using a Natural Scene Statistics (NSS) model in the complex wavelet domain. It allows to capture the statistical dependency between pairs of the stereoscopic images. 
 
