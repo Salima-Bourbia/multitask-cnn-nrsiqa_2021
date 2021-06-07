@@ -12,7 +12,6 @@ from scipy import stats
 import yaml
 from argparse import ArgumentParser
 import random
-from torch.optim import Adam
 import torch.nn.functional as F
 import torch.nn as nn
 import sys
