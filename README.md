@@ -53,7 +53,9 @@ This paper addresses the problem of blind stereoscopic image quality assessment 
       python -m pip install -U scikit-image
       
       pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
-      
+ 
+ 
+ Note: using a Linux distribution such as Ubuntu is highly recommended     
       
 ## To launch the code :
         
