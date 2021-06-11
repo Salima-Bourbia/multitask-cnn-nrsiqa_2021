@@ -76,3 +76,15 @@ This paper addresses the problem of blind stereoscopic image quality assessment 
 If you found this code useful,  we would be grateful if you cite the paper :
 
 
+     @inproceedings{bourbia:hal-03258262,
+       TITLE = {{A Multi-task convolutional neural network for blind stereoscopic image quality assessment using naturalness analysis}},
+       AUTHOR = {Bourbia, Salima and Karine, Ayoub and Chetouani, Aladine and El Hassouni, Mohammed},
+       URL = {https://hal.archives-ouvertes.fr/hal-03258262},
+       BOOKTITLE = {{The 28th IEEE International Conference on Image Processing (IEEE - ICIP)}},
+       ADDRESS = {Anchorage-Alaska, France},
+       YEAR = {2021},
+       MONTH = Sep,
+       HAL_ID = {hal-03258262},
+       HAL_VERSION = {v1},
+     }
+
