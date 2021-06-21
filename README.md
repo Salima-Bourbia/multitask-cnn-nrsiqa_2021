@@ -29,30 +29,28 @@ This paper addresses the problem of blind stereoscopic image quality assessment 
 
 
 
-## Dependencies :
+## Dependencies : 
 
       
-      python version 3.6.9
+      python version 3.6
       
-      pip install torch==0.4.1
-
-      pip install 'git+https://github.com/lanpa/tensorboardX'
-
-      pip install Pillow==6.2.1
-
-      pip install numpy==1.17.3
-
-      pip install opencv-python
-
-      pip install scipy==1.3.1
-
-      pip install torchvision==0.2.2
-     
-      pip install PyYAML
+      torch  0.4
       
-      python -m pip install -U scikit-image
+      torchvision 0.2
+
+      Pillow
+
+      numpy
+
+      opencv
+
+      scipy
+
+      PyYAML
       
-      pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
+      scikit-image
+      
+      
  
  
  Note: using a Linux distribution such as Ubuntu is highly recommended     
