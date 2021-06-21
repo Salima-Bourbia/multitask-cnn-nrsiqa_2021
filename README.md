@@ -37,6 +37,8 @@ This paper addresses the problem of blind stereoscopic image quality assessment 
       torch  0.4
       
       torchvision 0.2
+      
+      tensorboard
 
       Pillow
 
