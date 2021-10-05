@@ -59,7 +59,7 @@ if __name__ == '__main__':
     # Training settings
     parser = ArgumentParser()
     parser.add_argument("--batch_size", type=int, default=128)
-    parser.add_argument("--epochs", type=int, default=2)
+    parser.add_argument("--epochs", type=int, default=500)
     parser.add_argument("--lr", type=float, default=0.001)
     parser.add_argument("--dataset", type=str, default="LIVE_Phase1")
     parser.add_argument("--weight_decay", type=float, default=0.0001)
